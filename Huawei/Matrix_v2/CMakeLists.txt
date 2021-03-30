@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Matrix_v2 C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(Matrix_v2 main.c dgemm.h dgemm.c)

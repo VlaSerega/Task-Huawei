@@ -1,0 +1,8 @@
+hadoop-yarn -> [hadoop-core, hadoop-dfs]
+hadoop-hdfs ->
+[apache-commons]
+hadoop-core -> [apache-commons]
+apache-commons ->
+[packet]
+packet -> [dfs, bfs, this]
+this - > [hadoop-yarn]

@@ -1,0 +1,1 @@
+hadoop-yarn -> [hadoop-dfs, hadoop-hdfs, dfs, bfs]

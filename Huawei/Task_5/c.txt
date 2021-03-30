@@ -1,0 +1,1 @@
+flink-table-api:1.11.2 -> [flink-core:1.11.2, apache-calcite:2.13, junit:4]
